@@ -1,0 +1,1 @@
+This Python script uses Selenium to automate and scrape the website AIGlobal Media to count how many times the word "diverse" appears on the page. It runs in a headless browser environment for efficiency.
